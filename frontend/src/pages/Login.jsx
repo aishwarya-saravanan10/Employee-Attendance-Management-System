@@ -37,8 +37,6 @@ export default function Login() {
           {loading ? 'Logging in...' : 'Login'}
         </button>
       </form>
-      <p className="muted">Manager sample: aishwarya@example.com / password123</p>
-      <p className="muted">Employee sample: dhara@example.com / password123</p>
     </div>
   );
 }
